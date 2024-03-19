@@ -1,0 +1,9 @@
+Dataset 1: Sensibilidad criptomonedas 
+URL: https://es.investing.com/crypto/
+Razon a elegir: Me interesa poder generar un modelo que permita medir la sensibilidad de las criptomonedas frente a estadisticas macro como tasas de interes, inflacion, crecimiento economico y variables de acceso a tecnologias.
+Variables de interes:
+precios de las principales cripto 
+rendimientos 
+estadisticas macro (de la pagina del banco mundial)
+
+Dataset 2: 
