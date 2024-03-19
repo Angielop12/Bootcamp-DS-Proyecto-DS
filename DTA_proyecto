@@ -6,4 +6,23 @@ precios de las principales cripto
 rendimientos 
 estadisticas macro (de la pagina del banco mundial)
 
-Dataset 2: 
+Dataset 2: Modelo de optimización de cartera
+URL: https://es.investing.com/indices/nasdaq-biotechnology?utm_source=google&utm_medium=cpc&utm_campaign=21076165402&utm_content=&utm_term=_&GL_Ad_ID=&GL_Campaign_ID=21076165402&show_see_in=2&af_adset_id=&ISP=1&npl=1&gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCARZ34hHKKVJOAm75f2Gy7EMnfJBs5PZMxE7tTn6n3zLs0sjN0PcVoBoCprEQAvD_BwE
+Razon a elegir: Me interesa poder generar un modelo que permita la construccion de una cartera de inversiones que maximize el rendimiento esperado y que minimize el riesgo. 
+Variables de interes: 
+Precios del mercado de las tecnologicas NASDAQ 
+Precios de NASDAQ Biotechnology
+(a partir de estos precios se pueden calcular rendimientos y estadisticas para la volatilidad)
+
+Dataset 3: Modelo para determinar las causas de la informalidad en colombia 
+URL: https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral/empleo-y-desempleo/geih-historicos
+Razon a elegir: Me interesa conocer las variables determinantes de la informalidad en colombia para el analisis de posibles politicas para combatir uno de los mayores problemas en colombia. 
+variables de interes: 
+Al no existir en la encuesta una variable de informalidad se toma caracteristicas de un empleo informal contenidas en variables dicotomicas dentro de la encuesta como: 
+cotizacion en pension, salud, seguro, formalidad de la empresa (si se encuentra registrada o no), nivel de ingresos. 
+p6080s1 pertenencia etnica
+p3271 sexo 
+dpto departamento
+clase estrato socioeconomico 
+educacion nivel de educacion en años 
+
